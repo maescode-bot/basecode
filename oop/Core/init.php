@@ -3,10 +3,10 @@
 	$GLOBALS['config'] = 
 	array(
 		'mysql' =>array(
-				'host'=>'127.0.0.1',
+				'host'=>'Host_Name',
 				'username'=>'root',
 				'password'=>"",
-				'db'=>'login_system'
+				'db'=>'Database_Name'
 			),
 		'session'=>array(
 			'session_name'=>'user',
